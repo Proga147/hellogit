@@ -1,8 +1,8 @@
 class Student {
 
 public:
-Student::Student( ) {
-	age=0;
+Student( ) {
+age=0;
 }
 
 void setname(string x ){
